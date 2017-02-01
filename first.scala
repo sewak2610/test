@@ -4,6 +4,6 @@
 package test
 object first{
   def main(args: Array[String]): Unit = {
-    println("Hello world chadffbnged")
+    println("changed from first_2")
   }
 }
