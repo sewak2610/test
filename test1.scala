@@ -2,8 +2,8 @@
   * Created by root on 1/2/17.
   */
 package test
-object first{
+object test1{
   def main(args: Array[String]): Unit = {
-    println("Hello world chadffbnged")
+    println("test filfet")
   }
 }
